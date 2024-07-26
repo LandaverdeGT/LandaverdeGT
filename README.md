@@ -24,16 +24,24 @@
 <img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="32px">
  <div align="center">
 	 
-### My Projects ✨:
-<a href="https://github.com/LandaverdeGT/IPC1_Proyecto1_202200378/tree/main/src">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Programa+r&theme=tokyonight" />
-</a>
-<a href="https://github.com/LandaverdeGT/-IPC1_Proyecto2_202200378">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Pagina+web+para+hospital&theme=tokyonight" />
-</a>
-<a href="https://github.com/LandaverdeGT/IPC2_ProyectoVJ2024_35">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
+<details><summary align="left"><h2> My Proyects </h2> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></summary>
+
+----
+	
+<div>
+  <p align="left">
+	<a href="https://github.com/LandaverdeGT/IPC1_Proyecto1_202200378">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LandaverdeGT&repo=IPC1_Proyecto1_202200378&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/LandaverdeGT/-IPC1_Proyecto2_202200378">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LandaverdeGT&repo=-IPC1_Proyecto2_202200378" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/LandaverdeGT/IPC2_ProyectoVJ2024_35/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LandaverdeGT&repo=IPC2_ProyectoVJ2024_35" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
 
 <h2>Connect me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <a href = 'https://www.linkedin.com/in/daniel-landaverde-261aa721b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
